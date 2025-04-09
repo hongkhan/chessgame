@@ -41,3 +41,13 @@ body {
     margin-top: 20px;
     text-align: center;
   }
+
+  .player1 {
+    padding-bottom: 600px;
+    text-indent: 30px;
+  } 
+
+  /* .player2 {
+    padding-top: 600px;
+    padding-right: 600px;
+  }   */
